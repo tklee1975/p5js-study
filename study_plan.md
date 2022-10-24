@@ -9,11 +9,13 @@
 - Fill/Stroke - done 
 - Color - done 
 - MultiCanvas - done 
-- Curve  
+- Beizer Curve - done
+- Curve - done 
+- Erase - done 
+- Vertex - done 
+- Vector 
 - Stroke Cap/Join 
 - Rect/Ellipse/ColorMode
-- Erase
-- Vertex
 - Constant
 - Text 
 - Environment 
@@ -27,6 +29,9 @@
 - Work with Vue 
 
 ## Exercise 
+- Procedual Petal (Beizer, Vector)
+- Moire Pattern 
+- Solving Sol (https://solvingsol.com/)
 
 ## References 
 Major Reference:

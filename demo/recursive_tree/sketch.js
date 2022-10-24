@@ -8,7 +8,7 @@
  */
 
 
-gDelta = 0.5;
+gDelta = 0.95;
 
 function setup() {
     createCanvas(500, 500);
@@ -48,6 +48,7 @@ function drawBranch(startPos, branchVec, width) {
     branchVec = branchVec.mult(0.95);
 
     drawBranch(endPoint, branchVec, newWidth);
+
 
     let rightVec = branchVec.copy();
     rightVec.rotate(gDelta);
